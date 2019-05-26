@@ -7,4 +7,5 @@ before_install:
 cache:
   yarn: true
 script:
+  - ls -la
   - yarn test
