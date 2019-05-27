@@ -14,6 +14,10 @@ Ask me enything that facks.
 
 目前免费试运营，有需求的同学[请在这里提交 issue](https://github.com/FrankFang/fack/issues) 说出你的目标。每次只能说一个目标，目标必须非常具体。
 
+## 如果超过一天没有回复你
+
+GitHub 的通知比较弱，有的时候我没看到通知，你可以加我微信 frank_fang 提醒我。
+
 ## 如何订阅
 
 如果你发现你的目标给别人的相同，你可以点击该 issue 里的订阅（subscribe）按钮。
